@@ -1,5 +1,5 @@
 # Maze-Game-Computer-Graphics-
-A Maze Game created using Computer Graphics in C Language 
+A Maze Game created using Computer Graphics in C++
 
 The project is about implementing The Maze Game in the First- Person view. For this we use the various concepts such as two- dimensional viewing transformations, clipping projections, visible surface detection, animation etc. learned throughout the course of our subject.
 
